@@ -1,2 +1,2 @@
 # N03t0n.github.io
-firststep
+my first step to track the process of my efforts on pwn and share something interesting
